@@ -1,1 +1,2 @@
-# test_for_mth1003
+# Test of GitHub for MTH1003
+This is a repository for us to play around with to investigate how to use GitHub for MTH1003...
